@@ -1,3 +1,7 @@
+Stock Market Kafka Real Time Data Engineering Project
+
+
+INTRODUCTION: 
 An end-to-end data engineering project on Real-Time Stock Market Data using Kafka.
 
 Techstack used:
