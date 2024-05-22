@@ -10,6 +10,7 @@ Techstack used:
 * Amazon Web Service (AWS)
   * S3 (Simple Storage Service)
   * Athena
+  * Apache Kafka
   * Glue Crawler
   * Glue Catalog
   * EC2
