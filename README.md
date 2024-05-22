@@ -1,7 +1,7 @@
-Stock Market Kafka Real Time Data Engineering Project
+## Stock Market Kafka Real Time Data Engineering Project
 
 
-INTRODUCTION
+### INTRODUCTION
 
 An end-to-end data engineering project on Real-Time Stock Market Data using Kafka.
 
@@ -15,5 +15,4 @@ Techstack used:
   * Glue Catalog
   * EC2
 
-Dataset used:
-The dataset has been uploaded in the same repository (indexProcessed.csv).
+## The dataset has been uploaded in the same repository (indexProcessed.csv).
